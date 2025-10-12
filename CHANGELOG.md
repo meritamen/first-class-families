@@ -1,6 +1,7 @@
-# 0.8.2.0
+# 0.8.2.0 - 2025-10-12
 
 - Add `Fcf.Utils.Assert` and `Fcf.Utils.AssertNot`.
+- Export everything in `Fcf`
 
 # 0.8.1.0
 
