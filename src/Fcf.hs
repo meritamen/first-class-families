@@ -170,6 +170,8 @@ module Fcf
   , Stuck
   , IsBool(_If)
   , If
+  , Assert
+  , AssertNot
 
   ) where
 
